@@ -20,7 +20,7 @@ Instructions:
 * Buttons: 1 - 4 for object creation
 * Buttons: 7 - 0 for object texture selection
 * Arrow buttons: Object translation
-* + and -: Scale selected object
+* "+" and "-": Scale selected object
 * Shift + arrow buttons: Move lighting system
 * Hold down middle mouse button: Scene rotation
 * Ctrl + arrow buttons: Translate camera
